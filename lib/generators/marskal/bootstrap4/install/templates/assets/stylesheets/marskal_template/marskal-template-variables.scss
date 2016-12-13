@@ -1,0 +1,12 @@
+//override bootstraps for all themes
+$navbar-height: 35px;
+$navbar-margin-bottom: 0px;
+
+$bg_inverse: #373a3c;
+$navbar-inverse-bg: $bg_inverse;
+
+//$navbar-inverse-link-active-bg: #22262E;
+
+
+@import 'marskal_template/theme/marskal_theme_default';
+//@import 'marskal_template/theme/marskal_theme_default';
